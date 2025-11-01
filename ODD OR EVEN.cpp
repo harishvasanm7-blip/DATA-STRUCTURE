@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n, i, num[50];
+    int n, i, num[10];
 
     printf("Enter how many numbers you want to check: ");
     scanf("%d", &n);
@@ -21,4 +21,5 @@ int main() {
 
     return 0;
 }
+
 
